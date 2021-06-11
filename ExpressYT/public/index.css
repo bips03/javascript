@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding :0;
+    box-sizing: border-box;
+}
+body{
+    padding : 40px auto;
+    height : 100vh;
+    text-align : center;
+    background-color: antiquewhite;
+
+}
+h1{
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}

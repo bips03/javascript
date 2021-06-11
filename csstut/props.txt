@@ -1,0 +1,14 @@
+// talking about position property
+
+// relative : this is used where the body takes spaces for the element but L,R,T,B will shift the item from the posn but this distubs the posn of others so its not used for child elements
+
+// absolute : when this is used it is positioned relative to the parent element which has a property.. this is most commonly used but before using we should give property relative to the body or parent element  so we can position according to that
+
+// fixed : fixed to the viewport
+
+// sticky : this is used when we want relative element which does not change its position but when we scroll it stays on top used with top:0 for header
+
+/// CSS LAYOUT HEADER FOOTER CONTENT
+
+// for the footer to stay down we position our body to relative and our footer absolute with bottom zero
+// content becomes 100% height - the height of the footer given by the margin
